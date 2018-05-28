@@ -3,6 +3,6 @@ spring:
   config:
    server:
     git :
-     uri: https://github.com/spring-cloud-repo
+     uri: https://github.com/davidamir/springcloud
 server:
  port: 9999
